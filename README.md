@@ -4,7 +4,7 @@ This project is the first assignment from **The Odin Project's Foundations curri
 
 ## 🌟 Live Demo
 
-[Link to your deployed website here, e.g., GitHub Pages]
+https://gazdean.github.io/odin-recipes/
 
 ---
 

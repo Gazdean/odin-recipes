@@ -1,4 +1,4 @@
-# 👩‍🍳 Memory Recipes Project
+# 👩‍🍳 Memory Recipes
 
 This project is the first assignment from **The Odin Project's Foundations curriculum**, focusing on demonstrating core HTML knowledge by building a basic recipe website.
 
@@ -21,7 +21,7 @@ This project was a deep dive into the foundational building blocks of HTML struc
 ### 1. HTML File Structure & Boilerplate
 
 - **Boilerplate:** Correctly setting up the basic HTML5 structure, including `<!DOCTYPE html>`, `<html>`, `<head>`, and `<body>`.
-- **Metadata:** Understanding the importance of the `<meta>` tags, particularly `charset="UTF-8"` and `viewport` for character encMemoryg and basic responsiveness.
+- **Metadata:** Understanding the importance of the `<meta>` tags, particularly `charset="UTF-8"` and `viewport` for character encoding and basic responsiveness.
 - **Page Title:** Using the `<title>` tag for browser tabs and search engine results.
 
 ### 2. Text and Content Structure
